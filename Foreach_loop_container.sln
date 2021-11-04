@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Foreach_loop_container", "Foreach_loop_container\Foreach_loop_container.dtproj", "{5B78D5FA-ED4A-4C6C-8A49-4D66A79735E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B78D5FA-ED4A-4C6C-8A49-4D66A79735E7}.Development|Default.ActiveCfg = Development
+		{5B78D5FA-ED4A-4C6C-8A49-4D66A79735E7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6D991A9-9E23-43D4-B943-50D4FE657D23}
+	EndGlobalSection
+EndGlobal
